@@ -10,3 +10,13 @@ Back End
   
 DataBase 
   ???
+
+
+Create Lancamentos
+  Category (food, house, fun...)
+  Type (outcome, income, transfefer)
+  Date
+  Value
+  Realised
+  
+  
